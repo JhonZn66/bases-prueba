@@ -1,7 +1,7 @@
 # bases-prueba
 bases-prueba
 
-![Un pelao](pepetoño.jepg)
+![Un pelao](pepetoño.jpeg)
 
 ## Sección 
 Una lista:
