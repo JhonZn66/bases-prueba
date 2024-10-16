@@ -10,6 +10,6 @@ Una lista:
   Otra lista anidada
   1. Primer pasp
   2. Segundo paso
-    -Importante
-    -Recordar
+  -Importante
+  -Recordar
   4. Tercer paso
