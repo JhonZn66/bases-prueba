@@ -1,7 +1,7 @@
 # bases-prueba
 bases-prueba
 
-![Un pelao](pepetoño.jpeg)
+![Moto](kawasakiz900.jpg)
 
 ## Sección 
 Una lista:
