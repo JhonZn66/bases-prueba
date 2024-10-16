@@ -7,9 +7,9 @@ Una lista:
 - Qué tal
 - Algo más.
 
-  Otra lista anidada
-  1. Primer pasp
-  2. Segundo paso
+Otra lista anidada
+1. Primer pasp
+2. Segundo paso
     -Importante
     -Recordar
-  4. Tercer paso
+3. Tercer paso
