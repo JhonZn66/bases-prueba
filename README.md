@@ -14,4 +14,25 @@ Otra lista anidada
 2. Segundo paso
    - Importante
    - Recordar
-4. Tercer paso
+3. Tercer paso
+## Más cositas
+Enlace a la [La web del kernel](https://kernel.org)
+
+Codigo:
+
+- Esto es `INSER INTO` en formato online:
+-  Lo siguiente es un bloque de código:
+
+```sql
+CREATE TABLA gatito (
+   cabeza VARCHAR(255),
+   patitas INT
+);
+```
+
+ También si indentificamos con varios espacios
+
+   CREATE TABLE Tabla (
+         a INT
+   );
+```
