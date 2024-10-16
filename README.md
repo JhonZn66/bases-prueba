@@ -1,6 +1,8 @@
 # bases-prueba
 bases-prueba
 
+![Un pelao](pepetoño.jepg)
+
 ## Sección 
 Una lista:
 - Hola
