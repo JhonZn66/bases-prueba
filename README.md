@@ -8,7 +8,7 @@ Una lista:
 - Algo más.
 
 Otra lista anidada
-1. Primer pasp
+1. Primer paso
 2. Segundo paso
     -Importante
     -Recordar
