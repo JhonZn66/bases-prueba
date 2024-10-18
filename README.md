@@ -1,5 +1,6 @@
 # bases-prueba
-bases-prueba
+ESTA ES LA DESCRPCION DEL PROYECTO
+puedes ver [mis notas](/directorio/mis-notas.md)
 
 ![Moto1](kawasakiz900.jpg)
 ![Moto2](https://bcnmotorbikes.com/wp-content/uploads/2023/05/2022-Yamaha-MT09DX-EU-Icon_Performance-Studio-001-03-1.jpeg)
