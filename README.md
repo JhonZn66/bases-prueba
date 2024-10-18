@@ -23,7 +23,7 @@ Enlace a la [La web del kernel](https://kernel.org)
 Codigo:
 
 - Esto es `INSER INTO` en formato online:
--  Lo siguiente es un bloque de código:
+-  Lo siguiente es un bloque de codigo:
 
 ```sql
 CREATE TABLA gatito (
